@@ -1,7 +1,7 @@
 require "bundler/setup"
 require "zk"
 
-# This Process creates a znode and change it avery 5 secondes
+# This Process creates a znode and change it avery 5 seconds
 
 class EmitEvent
 
